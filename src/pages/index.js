@@ -14,7 +14,7 @@ const IndexPage = () => (
     />
     <h1>Hi people</h1>
     <p>Welcome to my Calculator</p>
-    <section style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <section style={{ maxWidth: `300px`, marginBottom: `1.45rem`, margin: `0 1rem` }}>
       <Calculator />
     </section>
     {/* <Link to="/page-2/">Go to page 2</Link> <br /> */}
